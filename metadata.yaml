@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '909'
     url: http://www.gutenberg.org/2009/agents/909
 description: American widow of an English soldier befriends Belgian refugees.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42797#The-Worn-Doorstep
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2013-05-24'
 gutenberg_type: Text
